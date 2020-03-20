@@ -4,7 +4,7 @@
 
 1、需要执行两个步骤：安装pygame依赖的库；下载并安装pygame。
 
-2、执行下面的命令来安装pygame依赖的库
+2、执行下面的命令来安装pygame依赖的库:
 ```
 sudo apt-get install python3-dev mercurial
 sudo apt-get install libsdl-image1.2-dev libsdl2-dev libsdl-ttf2.0-dev﻿​
