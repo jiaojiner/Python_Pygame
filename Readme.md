@@ -18,7 +18,6 @@ sudo apt-get install python-numpy
  ﻿​   
  4、接下来，执行下面的命令来安装pygame：
 
- 
 ```
 pip3 -i https://pypi.douban.com/simple/ install pygame
 ```
